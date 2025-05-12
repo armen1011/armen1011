@@ -40,9 +40,10 @@ How are you?
 
 > Frameworks and libraries.
 <p>
+    <a href="#"><img alt="Shopify" src="https://img.shields.io/badge/shopify-7AB55C.svg?logo=shopify&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-404d59.svg?logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -119,23 +120,6 @@ How are you?
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=armen1011&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armen1011&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
-
-<br />
-
-> GitHub Activity Graph
-<!-- https://github.com/armen1011/github-readme-activity-graph -->
-<a href="https://github.com/armen1011/armen1011"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=armen1011&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
-<br />
-
-<p align="right">
-  <a href="https://github.com/armen1011?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/armen1011"/></a>
-  <a href="https://github.com/armen1011?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/armen1011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<!--   <a href="https://github.com/armen1011">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=armen1011&style=for-the-badge"/></a> -->
 </p>
 
 <br />
